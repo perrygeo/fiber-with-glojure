@@ -1,7 +1,7 @@
 # Fiber with Glojure
 
-A proof of concept web server written in **Go** using the [Fiber](https://gofiber.io/) web framework.
-Handlers are written in an embedded [Glojure](github.com/glojurelang/glojure) interpreter.
+A proof of concept web server written in Go using the [Fiber](https://gofiber.io/) web framework.
+Handlers are written in an embedded [Glojure](https://github.com/gloathub/glojure) interpreter, a Clojure dialect hosted on Golang.
 
 ```bash
 $ make run
